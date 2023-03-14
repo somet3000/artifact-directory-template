@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Comparing the Effects of Increased Sequencing Coverage on Analyses of Human Genetic Variation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Genome-wide association studies determine associations between variants at individual genomic positions called single nucleotide polymorphisms (SNPs) and various phenotypes such as height or diabetes. Expression quantitative trait loci (eQTLs) are SNPs that are significantly associated with gene expression for a certain gene. The link between genetic variation and observable phenotypes is poorly understood, and eQTL analyses link genetic variation to gene expression that informs downstream phenotypes. These associations can be refined using downstream analyses like fine-mapping and functional annotation enrichment which can better locate causal variants across the genome. However, coverage, or the amount of times each individual nucleotide is sequenced on average in a sample, plays a key role in determining the statistical power to detect SNPs, indels, and rare variants. In this analysis, we combine the approach of eQTL analyses with fine-mapping to compare a high-coverage and low-coverage dataset using a cohort of individuals from the 1000 Genomes Project.
